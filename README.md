@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nicatmehdiyev19" target="blank"><img src="https://img.shields.io/twitter/follow/nicatmehdiyev19?logo=twitter&style=for-the-badge" alt="nicatmehdiyev19" /></a> </p>
 
-- 🌱 I’m currently learning **Phyton C#**
+- 🌱 I’m currently learning **SCALA**
 
 - 💬 Ask me about **Java, Spring Boot , Spring Security ,Html Css Js**
 
